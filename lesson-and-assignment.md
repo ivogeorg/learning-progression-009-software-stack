@@ -4,9 +4,9 @@ Author: Ivo Georgiev, PhD
 Last updated: 2020-04-29   
 Code: cea19bb2d06c63313166278f451db24fb3414efc      
 
-![alt text](images/CPE-Asst6-Modulo-Ctr.jpg "Final circuit for CPE 1040 Asst 6")
+![alt text]()
 
-This is lesson and assignment 008 for the Spring 2020 installment of the CPE 1040 - Intro to Computer Engineering course at MSU Denver.
+This is lesson and assignment 009 for the Introduction to Computer Engineering course of [Marsian School](http://marsian.school/).
 
 **NOTE:** 
 1. This lesson & assignment [README](README.md) is _intentionally_ blank, to be used as the **Lab Notebook** for the study & submission. _It is a great aid for your study and the main component of your submission._
@@ -29,20 +29,46 @@ This is lesson and assignment 008 for the Spring 2020 installment of the CPE 104
    
 2. Learning mechanisms.
    [The ABCs of How We Learn](https://wwnorton.com/books/The-ABCs-of-How-We-Learn/)
+   
+### _Learning How to Learn 06 (asst 010)_
+
+1. _Learning How to Learn_.
+   [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
+   
+2. _Mindshift_.
+   [Mindshift](https://www.coursera.org/learn/mindshift)
 
 ## Lesson & Assignment 009: Software stack
 
 **TODO:** Overview of both lesson and assignment.
 
+**Possibly too large - break down**
+
+## _Lesson & Assignment 010: Full stack_
+
+_**Possibly too large - break down**_
+
+
+- _programmatic interface_
+- _nordik processor development (continuation of mbed in IoT)_
+- _arm assembly_
+- _assembly programming_
+
 ### Section 1: Introduction to the software stack of the micro:bit
 
 [Exploring the BBC micro:bit Software Stack](https://mattwarren.org/2017/11/28/Exploring-the-BBC-microbit-Software-Stack/)
 
-### Section 2: 
+### Section 2: The micro:bit runtime
 
-### Section 3: 
+Also known as the [Device Abstraction Layer (DAL)](https://lancaster-university.github.io/microbit-docs/)
 
-### Section 4: 
+### Section 3: Introduction to mbed
+
+[online compiler](https://lancaster-university.github.io/microbit-docs/online-toolchains/)
+
+### Section 4: The rest are C programming
+
+[micro:bit IoT in C](Getting Started https://www.iot-programmer.com/index.php/books/27-micro-bit-iot-in-c/chapters-micro-bit-iot-in-c/1-getting-started-with-c-c-on-the-micro-bit?showall=1)
 
 ### Section 5: 
 
@@ -50,7 +76,9 @@ This is lesson and assignment 008 for the Spring 2020 installment of the CPE 104
 
 ### Section 7:
 
-### Section 8: 
+### Section 8: Should bring it around on the sw stack
+
+Looking at the stack from nordic up...
 
 
 ## Resources

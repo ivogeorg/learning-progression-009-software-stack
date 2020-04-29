@@ -1,8 +1,8 @@
 # CPE 1040 - Spring 2020
 
 Author: Ivo Georgiev, PhD  
-Last updated: 2020-04-28   
-Code: e02fe74e01fac3e69c007201899eb5771ccbe198      
+Last updated: 2020-04-29   
+Code: cea19bb2d06c63313166278f451db24fb3414efc      
 
 ![alt text](images/CPE-Asst6-Modulo-Ctr.jpg "Final circuit for CPE 1040 Asst 6")
 
@@ -20,41 +20,37 @@ This is lesson and assignment 008 for the Spring 2020 installment of the CPE 104
 
 ## Learning how to learn
 
+### Learning How to Learn 05
+
 **TODO**
 
-### Learning How to Learn 04
-
-1. Transfer learning in machines and humans.
-   - [alignment of conceptual systems](https://arxiv.org/abs/1906.09012)
-   - the more systems the better humans learn
+1. Learning strategies.
+   [6 Powerful Learning Strategies](https://www.cultofpedagogy.com/learning-strategies/)
    
-2. Chunking.
+2. Learning mechanisms.
+   [The ABCs of How We Learn](https://wwnorton.com/books/The-ABCs-of-How-We-Learn/)
 
-## Lesson & Assignment 008: Computation
+## Lesson & Assignment 009: Software stack
 
 **TODO:** Overview of both lesson and assignment.
 
-### Section 1: 1-bit half adder from logic gates
+### Section 1: Introduction to the software stack of the micro:bit
 
-**TODO:** Including XOR/XNOR mux.
+[Exploring the BBC micro:bit Software Stack](https://mattwarren.org/2017/11/28/Exploring-the-BBC-microbit-Software-Stack/)
 
-### Section 2: 1-bit half adder from NAND gates
+### Section 2: 
 
-### Section 3: 1-bit full adder from logic gates
+### Section 3: 
 
-### Section 4: 2-bit half-adder with the micro:bit
+### Section 4: 
 
-### Section 5: 2-bit binary multiplier
+### Section 5: 
 
-### Section 6: Shift register with D-type flip-flops
+### Section 6: 
 
-**TODO:** Parallel and serial shift register
+### Section 7:
 
-### Section 7: One-instruction set computer
-
-**TODO:** Random-access machine, counter-machine model
-
-### Section 8: Turing machine implementation
+### Section 8: 
 
 
 ## Resources

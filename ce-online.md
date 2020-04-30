@@ -13,6 +13,15 @@
 6. RISC-V.
 6. Novel processor design (ML, AI, etc).
    1. Architectures at [ScaledML 2020](http://scaledml.org/2020/)
+   
+## Devices
+1. micro:bit
+2. Arduino
+3. Raspberry Pi
+4. SparkFun Artemis.
+
+## Measurement
+1. Digilent probes
 
 ## Software branch
 1. micro:bit software stack.

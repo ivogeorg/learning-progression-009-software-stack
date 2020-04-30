@@ -10,13 +10,23 @@
 3. As a continuation of logic gates and computational components, FPGA (say, [TinyFPGA](https://tinyfpga.com/)) programming after 008 (logic gates) and 009 (computation).
 4. FPGAs lead to designing computers (probably just 8-bit ones with TinyFPGA).
 5. This may lead to Verilog-programmable FPGA (probably higher-end), then transition to denser fabric designs for VLSI.
+6. RISC-V.
+6. Novel processor design (ML, AI, etc).
+   1. Architectures at [ScaledML 2020](http://scaledml.org/2020/)
 
 ## Software branch
 1. micro:bit software stack.
 2. mbed programming in C/C++ (bypassing the micro:bit DAL/runtime)
 3. RTOS (mbed 5)
-4. micro:bit extension packages.
-5. Better I2C support.
+4. Better I2C support.
+
+## Full-stack computer integration
+1. Embedded systems.
+2. IoT.
+3. micro:bit extension packages.
+4. Domain-specific hardware.
+   1. Hennessy & Patterson [Turing](https://www.acm.org/hennessy-patterson-turing-lecture) [Lecture](https://iscaconf.org/isca2018/turing_lecture.html) topics.
+
 
 # MSU Denver CPE
 

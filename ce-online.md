@@ -42,6 +42,7 @@
       4. Agile Chip Development
    2. Robotics.
    3. Autonomous vehicles.
+   4. SDR.
 
 
 # MSU Denver CPE

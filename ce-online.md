@@ -2,7 +2,7 @@
 # Lesson & assignments after 008
 
 ## Hardware branch
-1. Need more serious serial support, in particular I2C. This will lead to micro:bit peripherals.
+1. Need better serial support, in particular I2C. This will lead to micro:bit peripherals.
    1. Sensors & actuators.
    2. External memory.
    3. WiFi.

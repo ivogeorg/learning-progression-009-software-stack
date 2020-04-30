@@ -9,9 +9,10 @@
 2. Lookup tables after multiplexors. This leads to FPGAs.
 3. As a continuation of logic gates and computational components, FPGA (say, [TinyFPGA](https://tinyfpga.com/)) programming after 008 (logic gates) and 009 (computation).
 4. FPGAs lead to designing computers (probably just 8-bit ones with TinyFPGA).
-5. This may lead to Verilog-programmable FPGA (probably higher-end), then transition to denser fabric designs for VLSI.
+5. This may lead to Verilog-programmable FPGA (probably higher-end), then transition to denser fabric designs for VLSI, and further into ASIC design.
+   - Google TPU
 6. RISC-V.
-6. Novel processor design (ML, AI, etc).
+7. Novel processor design (ML, AI, etc).
    1. Architectures at [ScaledML 2020](http://scaledml.org/2020/)
    
 ### Devices

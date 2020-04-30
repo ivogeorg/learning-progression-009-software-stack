@@ -54,7 +54,7 @@
 1. Problematic CE topics:
    - comms (a & d comms, advanced comms)
    - power
-     - actually missing from CPE, more like [EET](https://www.msudenver.edu/eet/; no EE at MSUD!)
+     - actually missing from CPE, more like [EET](https://www.msudenver.edu/eet/); no EE at MSUD!)
    - VLSI
 2. CE topics with no labs:
    - signals & systems

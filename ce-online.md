@@ -33,8 +33,14 @@
 1. Embedded systems.
 2. IoT.
 3. micro:bit extension packages.
-4. Domain-specific hardware.
-   1. Hennessy & Patterson [Turing](https://www.acm.org/hennessy-patterson-turing-lecture) [Lecture](https://iscaconf.org/isca2018/turing_lecture.html) topics.
+4. Domain-specific hardware and software stacks.
+   1. Hennessy & Patterson [Turing](https://www.acm.org/hennessy-patterson-turing-lecture) [Lecture](https://iscaconf.org/isca2018/turing_lecture.html) topics. ([Slides](https://iscaconf.org/isca2018/docs/HennessyPattersonTuringLectureISCA4June2018.pdf))
+      1. Domain-Specific Hardware/Software Co-Design
+      2. Enhanced Security
+      3. Open Instruction Sets
+      4. Agile Chip Development
+   2. Robotics.
+   3. Autonomous vehicles.
 
 
 # MSU Denver CPE

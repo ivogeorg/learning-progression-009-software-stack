@@ -52,10 +52,12 @@
 - [Catalog entry](https://catalog.msudenver.edu/preview_program.php?catoid=26&poid=6946#)
 
 1. Problematic CE topics:
-   - comms (a & d comms, advanced comms)
-   - power
-     - actually missing from CPE, more like [EET](https://www.msudenver.edu/eet/); no EE at MSUD!)
-   - VLSI
+   - comms (a & d comms, advanced comms): _requires potentially expensive equipment_
+   - power: _safety considerations_
+     - actually missing from CPE
+     - some in [EET](https://www.msudenver.edu/eet/)
+   - VLSI: _requires expensive equipment_
+   - AC circuits: _requires oscilloscope_
 2. CE topics with no labs:
    - signals & systems
    - solid state device fundamentals (solid state electronics uses discrete elements and the lab is on uses)

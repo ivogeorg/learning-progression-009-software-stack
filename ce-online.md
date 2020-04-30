@@ -25,10 +25,10 @@
 1. Digilent probes
 
 ## Software branch
-1. micro:bit software stack.
-2. mbed programming in C/C++ (bypassing the micro:bit DAL/runtime)
+1. [micro:bit software stack](https://mattwarren.org/2017/11/28/Exploring-the-BBC-microbit-Software-Stack/).
+2. [mbed programming in C/C++](https://www.iot-programmer.com/index.php/books/27-micro-bit-iot-in-c/chapters-micro-bit-iot-in-c/1-getting-started-with-c-c-on-the-micro-bit?showall=1) (bypassing the micro:bit DAL/runtime)
+   - Better I2C support.
 3. RTOS (mbed 5)
-4. Better I2C support.
 
 ## Full-stack computer integration
 1. Embedded systems.

@@ -22,7 +22,8 @@
 4. SparkFun Artemis.
 
 ### Measurement
-1. Digilent probes
+1. [Multimeters](https://healthyhandyman.com/best-budget-multimeters-guide/)
+2. [Digilent Analog Discovery 2](https://store.digilentinc.com/analog-discovery-2-100msps-usb-oscilloscope-logic-analyzer-and-variable-power-supply/)
 
 ## Software branch
 1. [micro:bit software stack](https://mattwarren.org/2017/11/28/Exploring-the-BBC-microbit-Software-Stack/).

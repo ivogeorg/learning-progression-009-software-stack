@@ -30,6 +30,7 @@
 2. [mbed programming in C/C++](https://www.iot-programmer.com/index.php/books/27-micro-bit-iot-in-c/chapters-micro-bit-iot-in-c/1-getting-started-with-c-c-on-the-micro-bit?showall=1) (bypassing the micro:bit DAL/runtime)
    - Better I2C support.
 3. RTOS (mbed 5)
+4. (?) Encoding & decoding (vast topic with wide implications, almost a branch of its own and/or graduate level work)
 
 ## Full-stack computer integration
 1. Embedded systems.
@@ -44,6 +45,11 @@
    2. Robotics.
    3. Autonomous vehicles.
    4. SDR.
+   
+## Comms, networking, and security
+1. micro:bit
+   1. Radio
+   2. BLE stack & profile
 
 
 # MSU Denver CPE

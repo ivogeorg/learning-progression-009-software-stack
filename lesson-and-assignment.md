@@ -44,41 +44,59 @@ This is lesson and assignment 009 for the Introduction to Computer Engineering c
 
 **Possibly too large - break down**
 
+### Section 1: Introduction to the software stack of the micro:bit
+
+**TODO:**
+1. Tracing down through the stack.  
+2. [Exploring the BBC micro:bit Software Stack](https://mattwarren.org/2017/11/28/Exploring-the-BBC-microbit-Software-Stack/)
+
+### Section 2: TypeScript
+
+**TODO:**
+1. Gentle theory of languages.
+   1. Grammars.  
+   2. Lex, yacc.  
+   3. Abstract syntax tree.  
+   4. Compilation and assembly.  
+   5. Execution.  
+2. TS compilation.  
+3. micro:bit HEX program.  
+4. TS runtime and the micro:bit.  
+
+### Section 3: The micro:bit runtime
+
+Also known as the [Device Abstraction Layer (DAL)](https://lancaster-university.github.io/microbit-docs/)
+
+### Section 4: Introduction to mbed
+
+[online compiler](https://lancaster-university.github.io/microbit-docs/online-toolchains/)
+
+### Section 5: The rest are C programming
+
+[micro:bit IoT in C](Getting Started https://www.iot-programmer.com/index.php/books/27-micro-bit-iot-in-c/chapters-micro-bit-iot-in-c/1-getting-started-with-c-c-on-the-micro-bit?showall=1)
+
+### Section 6: 
+
+### Section 7: 
+
+### Section 8:
+
+### Section 9: Should bring it around on the sw stack
+
+**TODO:**
+1. Tracing "upward" and the design of computer systems.  
+2. Looking at the stack from nordic up...  
+
 ## _Lesson & Assignment 010: Full stack_
 
 _**Possibly too large - break down**_
-
 
 - _programmatic interface_
 - _nordik processor development (continuation of mbed in IoT)_
 - _arm assembly_
 - _assembly programming_
 
-### Section 1: Introduction to the software stack of the micro:bit
-
-[Exploring the BBC micro:bit Software Stack](https://mattwarren.org/2017/11/28/Exploring-the-BBC-microbit-Software-Stack/)
-
-### Section 2: The micro:bit runtime
-
-Also known as the [Device Abstraction Layer (DAL)](https://lancaster-university.github.io/microbit-docs/)
-
-### Section 3: Introduction to mbed
-
-[online compiler](https://lancaster-university.github.io/microbit-docs/online-toolchains/)
-
-### Section 4: The rest are C programming
-
-[micro:bit IoT in C](Getting Started https://www.iot-programmer.com/index.php/books/27-micro-bit-iot-in-c/chapters-micro-bit-iot-in-c/1-getting-started-with-c-c-on-the-micro-bit?showall=1)
-
-### Section 5: 
-
-### Section 6: 
-
-### Section 7:
-
-### Section 8: Should bring it around on the sw stack
-
-Looking at the stack from nordic up...
+### Section 1: ALU, CPU, and SoC
 
 
 ## Resources

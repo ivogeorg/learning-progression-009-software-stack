@@ -107,7 +107,10 @@ _**Possibly too large - break down**_
 
 ### Section 1: ALU, CPU, and SoC
 
-### Section 7: Extending the reference design
+### Section 5: Extending the reference design
+
+### Section 9: 32KB RAM
+- [Nordic SOC](https://www.nordicsemi.com/Products/Low-power-short-range-wireless/nRF51822)  
 
 ## Resources
 

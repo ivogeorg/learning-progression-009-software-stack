@@ -50,7 +50,7 @@ This is lesson and assignment 009 for the Introduction to Computer Engineering c
 1. Tracing down through the stack.  
 2. [Exploring the BBC micro:bit Software Stack](https://mattwarren.org/2017/11/28/Exploring-the-BBC-microbit-Software-Stack/)
 
-### Section 2: TypeScript
+### Section 2: TypeScript runtime
 
 **TODO:**
 1. Gentle theory of languages.
@@ -71,6 +71,11 @@ Also known as the [Device Abstraction Layer (DAL)](https://lancaster-university.
 
 [online compiler](https://lancaster-university.github.io/microbit-docs/online-toolchains/)
 
+### Section ?: Extension packages
+- [Docs](https://makecode.microbit.org/extensions)  
+- [Github](https://github.com/makecode-extensions)  
+- [Tech docs](https://makecode.com/docs)  
+
 ### Section 5: The rest are C programming
 
 [micro:bit IoT in C](Getting Started https://www.iot-programmer.com/index.php/books/27-micro-bit-iot-in-c/chapters-micro-bit-iot-in-c/1-getting-started-with-c-c-on-the-micro-bit?showall=1)
@@ -81,7 +86,11 @@ Also known as the [Device Abstraction Layer (DAL)](https://lancaster-university.
 
 ### Section 8:
 
-### Section 9: Should bring it around on the sw stack
+### Section 9: Qwiic OLED & distance sensor
+- [OLED](https://www.sparkfun.com/products/14532), though reviews are poor    
+- [sensor](https://www.sparkfun.com/products/14722)  
+- Qwiic carrier boards: [moto:bit](https://www.sparkfun.com/products/15713) or [weather:bit](https://www.sparkfun.com/products/15837)    
+- porting the libraries to micro:bit  
 
 **TODO:**
 1. Tracing "upward" and the design of computer systems.  
@@ -98,6 +107,7 @@ _**Possibly too large - break down**_
 
 ### Section 1: ALU, CPU, and SoC
 
+### Section 7: Extending the reference design
 
 ## Resources
 

@@ -96,22 +96,6 @@ Also known as the [Device Abstraction Layer (DAL)](https://lancaster-university.
 1. Tracing "upward" and the design of computer systems.  
 2. Looking at the stack from nordic up...  
 
-## _Lesson & Assignment 010: Full stack_
-
-_**Possibly too large - break down**_
-
-- _programmatic interface_
-- _nordik processor development (continuation of mbed in IoT)_
-- _arm assembly_
-- _assembly programming_
-
-### Section 1: ALU, CPU, and SoC
-
-### Section 5: Extending the reference design
-
-### Section 9: 32KB RAM
-- [Nordic SOC](https://www.nordicsemi.com/Products/Low-power-short-range-wireless/nRF51822)  
-
 ## Resources
 
 ### micro:bit 
